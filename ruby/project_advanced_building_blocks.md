@@ -259,6 +259,8 @@ There's also [an entry on Bubble Sort on Wikipedia](http://en.wikipedia.org/wiki
 * [Luján Fernaud's solution](https://github.com/lujanfernaud/ruby-building-blocks/blob/master/bubble_sort.rb)
 * [hs7's solution](https://github.com/hsun7/Advanced-Building-Blocks/blob/master/bubble_sort.rb)
 * [EMuchynski's solution](https://github.com/EMuchynski/advanced_building_blocks/blob/master/01_bubble_sort.rb)
+* [Marcos Lessa's solution](https://github.com/mscorzoni/Ruby-Lessons/blob/master/Bubble_Sort.rb)
+
 
 ## Project 2: Enumerable Methods
 
